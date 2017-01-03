@@ -37,7 +37,7 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-
+/* site body */
 body {
   background-color: #fff;
   color: #999;
