@@ -119,6 +119,20 @@ Page:Portfolio
   font-size: 0.75em;
   color: bdc3c7;
 }
+/**********************************
+Page:About
+***********************************/
+
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
+
+
+
+
 
 
 /**********************************
