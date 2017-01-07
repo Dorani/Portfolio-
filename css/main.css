@@ -140,7 +140,7 @@ Page:Portfolio
   transition: all .2s ease-in-out;
 }
 #gallery:hover {
-    transform: scale(1.4);
+    transform: scale(1.14);
 }
 
 
