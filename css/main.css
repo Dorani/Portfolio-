@@ -135,6 +135,13 @@ Page:Portfolio
 #gallery p {
   text-align: center;
 }
+
+#gallery {
+  transition: all .2s ease-in-out;
+}
+#gallery:hover {
+    transform: scale(1.1);
+}
 /**********************************
 Page:About
 ***********************************/
