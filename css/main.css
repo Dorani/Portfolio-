@@ -98,7 +98,14 @@ footer {
 
 
 
-.social-icon {
+.social-icon1 {
+  width: 65px;
+  height: 65px;
+  margin: 5 5px;
+  border-radius: 100%;
+}
+
+.social-icon2 {
   width: 60px;
   height: 60px;
   margin: 5 5px;
