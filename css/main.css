@@ -78,7 +78,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  padding: 1.4px;
+  padding: 1.6px;
 }
 
 nav a {
@@ -145,12 +145,10 @@ Page:Portfolio
   text-align: center;
 }
 
-#gallery {
+#gallery img pic1 {
   transition: all .2s ease-in-out;
 }
-#gallery:hover {
-    transform: scale(1.14);
-}
+
 
 
 /**********************************
