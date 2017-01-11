@@ -145,8 +145,11 @@ Page:Portfolio
   text-align: center;
 }
 
-#gallery img pic1 {
+#gallery img pic1 pic2 pic3 pic4 pic5 pic6 {
   transition: all .2s ease-in-out;
+}
+#gallery img pic1:hover  {
+    transform: scale(1.14);
 }
 
 
