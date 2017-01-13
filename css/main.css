@@ -151,14 +151,14 @@ Page:Portfolio
   transition: all .2s ease-in-out;
 }
 #gallery img:hover  {
-    transform: scale(2.0);
+    transform: scale(1.75);
 }
 
 #gallery  {
   transition: all .2s ease-in-out;
 }
 #gallery p:hover  {
-    transform: scale(2.0);
+    transform: scale(1.75);
 }
 
 /**********************************
@@ -211,7 +211,7 @@ COLORS
 
 /* site body */
 body {
-  background-color: #fff;
+  background-color: #F5FFFA;
   color: #999;
 }
 
