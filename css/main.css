@@ -132,7 +132,7 @@ Page:Portfolio
   margin: 2.5%; /*each img has a 10%, 2.5 * 4 sides */
   background-color: #f5f5f5;
   color: #bdc3c7;
-  font-size: 0.25em;
+  font-size: 0.45em;
 }
 
 #gallery li a p {
