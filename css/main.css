@@ -173,6 +173,13 @@ Page:About
   border-radius: 100%;
 }
 
+#stack {
+display: inline-block;
+border-radius: 5px;
+padding: 20px;
+background-color: #f2dede;
+}
+
 
 
 
