@@ -127,6 +127,11 @@ Page:Portfolio
   size: small;
 }
 
+#gallery.resize {
+   width:1024px;
+   height:768px;
+}
+
 #gallery li {
   float: left; /*make the images appear side by side*/
   width: 45%; /*each img takes up 45% of the total width of the parent element*/
