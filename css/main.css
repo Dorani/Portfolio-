@@ -4,7 +4,7 @@ GENERAL
 ***********************************/
 
 body{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', roboto;
 }
 
 #wrapper {
@@ -69,6 +69,7 @@ nav {
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0;
+  font-family: 'Sansita', sansita;
 }
 
 nav ul {
@@ -230,11 +231,13 @@ header {
 /* nav background on mobile */
 nav {
   background: #599a68;
+
 }
 
 /* logo text */
 h1, h2 {
   color: #fff;
+  font-family: 'Roboto', roboto;
 }
 
 /* links */
